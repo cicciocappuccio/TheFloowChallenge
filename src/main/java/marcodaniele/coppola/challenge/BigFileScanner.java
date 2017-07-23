@@ -8,8 +8,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class BigFileScanner {
 	private Scanner sc;
@@ -37,25 +35,17 @@ public class BigFileScanner {
 				sc.nextLine();
 			}
 			Scanner lineScanner = null;
-			while (sc.hasNextLine()) {
-
+			int i = 0;
+			while (sc.hasNextLine() && i < 1000) {
+				i++;
 				String line = sc.nextLine();
 
 				try {
-					lineScanner = new Scanner(line);
+					lineScanner = new Scanner(line).useDelimiter("\\W+");
 
 					while (lineScanner.hasNext()) {
 						String token = lineScanner.next();
 						
-						Pattern p = Pattern.compile("^[a-zA-Z0-9]*$");
-
-				        Matcher matcher = p.matcher(token);
-						
-				        if(matcher.matches())
-				        {
-				        	//matcher.group();
-				        	System.out.printf("group: %s%n", matcher.group());
-				        }
 						if (!(token.startsWith("<") || token.endsWith(">"))) {
 
 							Long occurenceOfToken = bagOfWords.get(token);
@@ -68,9 +58,15 @@ public class BigFileScanner {
 							bagOfWords.put(token, occurenceOfToken);
 						}
 					}
+					if (lineScanner.ioException() != null) {
+						throw lineScanner.ioException();
+					}
 				} catch (NoSuchElementException ex) {
 					bagOfWords = null;
 					ex.printStackTrace();
+				} catch (IOException ex1) {
+					bagOfWords = null;
+					ex1.printStackTrace();
 				} catch (Exception e) {
 					bagOfWords = null;
 					e.printStackTrace();

@@ -112,7 +112,7 @@ public class MongoDB {
 			{
 				updateBagOfWords(bagOfWords);
 
-				servers.updateOne(Filters.eq(LINE,i.get(LINE)), new Document("$set", new Document(END, "TRUE")));
+				servers.updateOne(Filters.and(Filters.eq(LINE,i.get(LINE)), Filters.eq(SERVER_ID, serverID)), new Document("$set", new Document(END, "TRUE")));
 				
 			}
 			
@@ -147,7 +147,22 @@ public class MongoDB {
 		}
 	}
 	
-	
+	public void showBOW()
+	{
+		System.out.println("The following words were found on the file");
+		MongoCollection<Document> bowCollection = database.getCollection(BAG_OF_WORDS);
+		
+		FindIterable<Document> bow = bowCollection.find();
+		MongoCursor<Document> iterator = bow.iterator();
+		
+		while(iterator.hasNext())
+		{
+			Document word = iterator.next();
+			System.out.println("the word '" + word.getString(TOKEN) + "' was found " + word.getLong(NUMBER));
+			
+		}
+		
+	}
 
 	public MongoClient getMongoClient() {
 		return mongoClient;
