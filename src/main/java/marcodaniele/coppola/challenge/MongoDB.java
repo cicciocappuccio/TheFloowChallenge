@@ -162,6 +162,7 @@ public class MongoDB {
 			
 		}
 		
+		System.out.println("\nGoodbye.");
 	}
 
 	public MongoClient getMongoClient() {

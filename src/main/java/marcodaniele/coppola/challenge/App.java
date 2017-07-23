@@ -56,9 +56,9 @@ public class App {
 		List<String> mongoParameters = extractMongoParameter(parameters);
 
 		System.out.println(parameters.get(SOURCE).split("\\.")[0]);
-		mongoDB = new MongoDB(mongoParameters.get(0), mongoParameters.get(1), parameters.get(SOURCE).split("\\.")[0]);
 		try {
-
+			mongoDB = new MongoDB(mongoParameters.get(0), mongoParameters.get(1), parameters.get(SOURCE).split("\\.")[0]);
+			
 			boolean fileEnd = false;
 
 			do {
@@ -75,7 +75,7 @@ public class App {
 
 				if (bagOfWords == null) {
 
-					System.out.println("ERRROR");
+					System.out.println("ERRROR\nSomething went wrong!!!Try to correct...");
 					// TODO qualcosa e' andato storto
 				} else {
 
@@ -103,7 +103,7 @@ public class App {
 		}
 	}
 
-	private static List<String> extractMongoParameter(HashMap<String, String> parameters) {
+	protected static List<String> extractMongoParameter(HashMap<String, String> parameters) {
 		List<String> mongoParameters = new ArrayList<String>();
 		if (parameters.containsKey(MONGO)) {
 			System.out.println();
