@@ -1,0 +1,912 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.30.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>User talk:209.5.63.178</title>
+    <ns>3</ns>
+    <id>564849</id>
+    <revision>
+      <id>6959857</id>
+      <timestamp>2004-03-30T19:45:35Z</timestamp>
+      <contributor>
+        <username>Texture</username>
+        <id>31280</id>
+      </contributor>
+      <comment>vandalism</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Please do not vandalize Anne Frank or any other article.  If you continue you may be blocked from editing in Wikipedia - [[User:Texture|Texture]] 19:45, 30 Mar 2004 (UTC)</text>
+      <sha1>98h3coszmypaat7y4ky16csfgsyyi0s</sha1>
+    </revision>
+    <revision>
+      <id>16398872</id>
+      <parentid>6959857</parentid>
+      <timestamp>2004-10-29T15:44:15Z</timestamp>
+      <contributor>
+        <username>Lupo</username>
+        <id>34978</id>
+      </contributor>
+      <comment>stop vandalizing</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Please do not vandalize Anne Frank or any other article.  If you continue you may be blocked from editing in Wikipedia - [[User:Texture|Texture]] 19:45, 30 Mar 2004 (UTC)
+
+
+
+Do not [[Wikipedia:Vandalism|vandalize]] or you will be prevented from editing. [[User:Lupo|Lupo]] 15:44, 29 Oct 2004 (UTC)</text>
+      <sha1>pzfml6lckf1it5mckrqwu951z9rgdpn</sha1>
+    </revision>
+    <revision>
+      <id>42442113</id>
+      <parentid>16398872</parentid>
+      <timestamp>2006-03-06T06:29:04Z</timestamp>
+      <contributor>
+        <username>Tawkerbot</username>
+        <id>922334</id>
+      </contributor>
+      <minor />
+      <comment>blanking/categorizing stale IP talk page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>87830055</id>
+      <parentid>42442113</parentid>
+      <timestamp>2006-11-14T20:44:13Z</timestamp>
+      <contributor>
+        <ip>209.5.63.218</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">This is the IP for a private school in Niagara Falls, Ontario, Canada.</text>
+      <sha1>gox4c9ccjm1ddsfarzn2qp5dhewee7g</sha1>
+    </revision>
+    <revision>
+      <id>92224583</id>
+      <parentid>87830055</parentid>
+      <timestamp>2006-12-05T14:24:29Z</timestamp>
+      <contributor>
+        <ip>209.5.63.218</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{schoolip}}
+This is the IP for a private school in Niagara Falls, Ontario, Canada.</text>
+      <sha1>hkns8z0se2u0giy3l6oyylqn7jifd89</sha1>
+    </revision>
+    <revision>
+      <id>106310218</id>
+      <parentid>92224583</parentid>
+      <timestamp>2007-02-07T14:18:05Z</timestamp>
+      <contributor>
+        <username>Dina</username>
+        <id>35947</id>
+      </contributor>
+      <comment>warn</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{schoolip}}
+This is the IP for a private school in Niagara Falls, Ontario, Canada.
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from {{{{{subst|}}}#if:{{{1|}}}|[[:{{{1}}}]]|an article}}. Please be more careful when editing articles and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  {{{2|Thank you.}}}&lt;!-- {{uw-delete1}} --&gt;[[User:Dina|Dina]] 14:18, 7 February 2007 (UTC)</text>
+      <sha1>syvlbdl08pr9p73tn8zbas11prbpod2</sha1>
+    </revision>
+    <revision>
+      <id>106829971</id>
+      <parentid>106310218</parentid>
+      <timestamp>2007-02-09T13:47:31Z</timestamp>
+      <contributor>
+        <username>SmilesALot</username>
+        <id>2707468</id>
+      </contributor>
+      <comment>Your recent edits</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{schoolip}}
+This is the IP for a private school in Niagara Falls, Ontario, Canada.
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from {{{{{subst|}}}#if:{{{1|}}}|[[:{{{1}}}]]|an article}}. Please be more careful when editing articles and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  {{{2|Thank you.}}}&lt;!-- {{uw-delete1}} --&gt;[[User:Dina|Dina]] 14:18, 7 February 2007 (UTC)
+
+Thank you for experimenting with {{#if:James Baker|the page [[:James Baker]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:SmilesALot|SmilesALot]] 13:47, 9 February 2007 (UTC)</text>
+      <sha1>517trzga3h2lukua6cq39hzb3boi0qv</sha1>
+    </revision>
+    <revision>
+      <id>106830615</id>
+      <parentid>106829971</parentid>
+      <timestamp>2007-02-09T13:51:18Z</timestamp>
+      <contributor>
+        <username>SmilesALot</username>
+        <id>2707468</id>
+      </contributor>
+      <comment>Your recent edits</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{schoolip}}
+This is the IP for a private school in Niagara Falls, Ontario, Canada.
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from {{{{{subst|}}}#if:{{{1|}}}|[[:{{{1}}}]]|an article}}. Please be more careful when editing articles and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  {{{2|Thank you.}}}&lt;!-- {{uw-delete1}} --&gt;[[User:Dina|Dina]] 14:18, 7 February 2007 (UTC)
+
+Thank you for experimenting with {{#if:James Baker|the page [[:James Baker]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:SmilesALot|SmilesALot]] 13:47, 9 February 2007 (UTC)
+
+Thank you for experimenting with {{#if:James Hudson|the page [[:James Hudson]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:SmilesALot|SmilesALot]] 13:51, 9 February 2007 (UTC)</text>
+      <sha1>702q4yn7qndtb5vfo4ufh7myam367xa</sha1>
+    </revision>
+    <revision>
+      <id>129867056</id>
+      <parentid>106830615</parentid>
+      <timestamp>2007-05-10T17:17:48Z</timestamp>
+      <contributor>
+        <username>MartinBot</username>
+        <id>2198658</id>
+      </contributor>
+      <minor />
+      <comment>An automated message from [[User:MartinBot|MartinBot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{schoolip}}
+This is the IP for a private school in Niagara Falls, Ontario, Canada.
+
+
+[[Image:Information.svg|25px]] Welcome to Wikipedia. It might not have been your intention, but your recent contribution removed content from {{{{{subst|}}}#if:{{{1|}}}|[[:{{{1}}}]]|an article}}. Please be more careful when editing articles and do not remove content from Wikipedia without a good reason, which should be specified in the [[Help:Edit summary|edit summary]]. Take a look at the [[Wikipedia:Welcome|welcome page]] to learn more about contributing to this encyclopedia.  If you would like to experiment again, please use the [[Wikipedia:Sandbox|sandbox]].  {{{2|Thank you.}}}&lt;!-- {{uw-delete1}} --&gt;[[User:Dina|Dina]] 14:18, 7 February 2007 (UTC)
+
+Thank you for experimenting with {{#if:James Baker|the page [[:James Baker]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:SmilesALot|SmilesALot]] 13:47, 9 February 2007 (UTC)
+
+Thank you for experimenting with {{#if:James Hudson|the page [[:James Hudson]] on}} Wikipedia{{#if:{{{diff|}}}|&amp;nbsp;as you did with [{{{diff}}} this edit]}}. Your test worked, and it has been [[Help:Reverting|reverted]] or removed. Please use [[Wikipedia:Sandbox|the sandbox]] for any other tests you may want to do. Take a look at the [[Wikipedia:Introduction|welcome page]] to learn more about contributing to our encyclopedia.&lt;!-- Template:Test (first level warning) --&gt; [[User:SmilesALot|SmilesALot]] 13:51, 9 February 2007 (UTC)
+
+Your recent edit to [[:Category:1800s in sports]] ([http://en.wikipedia.org/w/index.php?title=Category%3A1800s_in_sports&amp;diff=129866982&amp;oldid=84760291 diff]) was reverted by an '''automated bot''' that attempts to recognize and repair [[Wikipedia:vandalism|vandalism]] to Wikipedia articles. If the bot reverted a legitimate edit, please accept my humble creator's apologies – if you bring it to the attention of the bot's owner, we may be able to improve its behavior. '''[[User:Tawkerbot2/FAQ|Click here]]''' for '''frequently asked questions''' about the bot and this warning. // [[User:MartinBot|MartinBot]] 17:17, 10 May 2007 (UTC)</text>
+      <sha1>pxvhtu2l28jk2t78eabioyqfe596jww</sha1>
+    </revision>
+    <revision>
+      <id>539270029</id>
+      <parentid>129867056</parentid>
+      <timestamp>2013-02-20T18:31:33Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor />
+      <comment>blank ancient IP talk page messages per [[Wikipedia talk:Criteria for speedy deletion/Archive 9#IP talk pages]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{OW}}</text>
+      <sha1>nbenecoa06c8df8h22y6zw58w3kgrf8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Telegeodynamics</title>
+    <ns>0</ns>
+    <id>564852</id>
+    <revision>
+      <id>4540848</id>
+      <timestamp>2004-03-30T19:47:17Z</timestamp>
+      <contributor>
+        <username>Fuelbottle</username>
+        <id>34451</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a  mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]], see [[seismology]]
+
+It is published in his book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals ISBN 0963601288
+
+{{msg:stub}}</text>
+      <sha1>py077xzo2rarzsum19iem7ze5y27d8d</sha1>
+    </revision>
+    <revision>
+      <id>9307027</id>
+      <parentid>4540848</parentid>
+      <timestamp>2004-07-10T05:59:57Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a  mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]], see [[seismology]]
+
+It is published in his book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals ISBN 0963601288
+
+{{msg:stub}}
+
+[[Category:Nikola Tesla]]</text>
+      <sha1>sqyh3jug8ugm14aub47ak47yj82uvih</sha1>
+    </revision>
+    <revision>
+      <id>10478071</id>
+      <parentid>9307027</parentid>
+      <timestamp>2005-01-12T07:34:27Z</timestamp>
+      <contributor>
+        <username>Viriditas</username>
+        <id>101805</id>
+      </contributor>
+      <minor />
+      <comment>{{geol-stub}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a  mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]], see [[seismology]]
+
+It is published in his book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals ISBN 0963601288
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>4pm4enqafkqxgjtcs6sjhxjjxcp4n8c</sha1>
+    </revision>
+    <revision>
+      <id>10478227</id>
+      <parentid>10478071</parentid>
+      <timestamp>2005-02-21T00:37:15Z</timestamp>
+      <contributor>
+        <ip>66.17.239.99</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a  mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]], see [[seismology]]
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>4u5ei4yz3bl62jvxo2gtvh8mnboe396</sha1>
+    </revision>
+    <revision>
+      <id>11727341</id>
+      <parentid>10478227</parentid>
+      <timestamp>2005-02-21T00:42:13Z</timestamp>
+      <contributor>
+        <ip>66.17.239.99</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and the location of underground mineralized structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+See also [[seismology]].
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>34f6vyo778pbw6uaj7vd8ujkxydguak</sha1>
+    </revision>
+    <revision>
+      <id>13933309</id>
+      <parentid>11727341</parentid>
+      <timestamp>2005-03-31T17:04:17Z</timestamp>
+      <contributor>
+        <ip>69.143.172.48</ip>
+      </contributor>
+      <comment>added in omitted word</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+See also [[seismology]].
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>pur9vyhtnz3pcpnutjy99y44yyunuvg</sha1>
+    </revision>
+    <revision>
+      <id>14886550</id>
+      <parentid>13933309</parentid>
+      <timestamp>2005-05-19T15:58:25Z</timestamp>
+      <contributor>
+        <ip>204.56.7.1</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+==See also== 
+
+* [[seismology]]
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>dx5a8doh625q4ig8zb9tkx8uu8czc1t</sha1>
+    </revision>
+    <revision>
+      <id>14886828</id>
+      <parentid>14886550</parentid>
+      <timestamp>2005-06-08T18:07:37Z</timestamp>
+      <contributor>
+        <ip>151.188.16.56</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+Kyle is cool 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+==See also== 
+
+* [[seismology]]
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>1m5f8e1jr9yqab9abqk0we6l8ktqqff</sha1>
+    </revision>
+    <revision>
+      <id>16398874</id>
+      <parentid>14886828</parentid>
+      <timestamp>2005-06-08T18:14:14Z</timestamp>
+      <contributor>
+        <username>Joyous!</username>
+        <id>69412</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/151.188.16.56|151.188.16.56]] to last version by 204.56.7.1</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0963601288
+
+==See also== 
+
+* [[seismology]]
+
+{{geol-stub}}
+[[Category:Nikola Tesla]]</text>
+      <sha1>dx5a8doh625q4ig8zb9tkx8uu8czc1t</sha1>
+    </revision>
+    <revision>
+      <id>72272955</id>
+      <parentid>16398874</parentid>
+      <timestamp>2006-08-27T22:51:25Z</timestamp>
+      <contributor>
+        <username>SmackBot</username>
+        <id>433328</id>
+      </contributor>
+      <minor />
+      <comment>ISBN formatting &amp;/or general fixes  using [[WP:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is a mechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The underlying principles are discussed in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>f6f2ig3zwedbzxy3da90pzt7vms3lq7</sha1>
+    </revision>
+    <revision>
+      <id>99118973</id>
+      <parentid>72272955</parentid>
+      <timestamp>2007-01-07T16:57:29Z</timestamp>
+      <contributor>
+        <username>GLPeterson</username>
+        <id>3180434</id>
+      </contributor>
+      <comment>Added sentence including the word &quot;isochronous&quot; and modified citation</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous]], that is to say, frequency stable, alternating electric current used with both wireless transmitting and receiving apparatus.
+
+The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the Lucas Method of Prospecting by Detonations of Explosive Compounds and of The Tesla Method of Prospecting by Isochronous Oscillations Theoretically Considered&quot; available in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>owdzu8in4jtz0xuhv0xjsjf3yhv1161</sha1>
+    </revision>
+    <revision>
+      <id>116123655</id>
+      <parentid>99118973</parentid>
+      <timestamp>2007-03-18T23:13:15Z</timestamp>
+      <contributor>
+        <ip>82.112.155.212</ip>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous]], that is to say, frequency stable, alternating electric current used with both wireless transmitting and receiving apparatus.
+
+The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the Lucas Method of Prospecting by Detonations of Explosive Compounds and of The Tesla Method of Prospecting by Isochronous Oscillations Theoretically Considered&quot; available in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>7806ntg5yr49xn6eabr578ru1ti2zff</sha1>
+    </revision>
+    <revision>
+      <id>172600174</id>
+      <parentid>116123655</parentid>
+      <timestamp>2007-11-20T00:36:13Z</timestamp>
+      <contributor>
+        <ip>71.237.22.60</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].  He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+[Telegeodynamics was later robotics]
+
+The electromechanical oscillator was originally designed as a source of [[isochronous]], that is to say, frequency stable, alternating electric current used with both wireless transmitting and receiving apparatus.
+
+The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the Lucas Method of Prospecting by Detonations of Explosive Compounds and of The Tesla Method of Prospecting by Isochronous Oscillations Theoretically Considered&quot; available in the book, Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals, Leland Anderson and Gary Peterson, editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>5to96fu6ce80ntozpblnzg9dp5e84bi</sha1>
+    </revision>
+    <revision>
+      <id>207796603</id>
+      <parentid>172600174</parentid>
+      <timestamp>2008-04-24T06:31:14Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transciever|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]. 
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The Tesla Method of Prospecting by Isochronous Oscillations Theoretically Considered]]&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>spbtv940vajc26gduk7cr6jh2xqlbxn</sha1>
+    </revision>
+    <revision>
+      <id>207796686</id>
+      <parentid>207796603</parentid>
+      <timestamp>2008-04-24T06:31:48Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* Description */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]].
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The Tesla Method of Prospecting by Isochronous Oscillations Theoretically Considered]]&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>6s2olmsu5a1b71cqadizu4qk3yg9pyh</sha1>
+    </revision>
+    <revision>
+      <id>207798586</id>
+      <parentid>207796686</parentid>
+      <timestamp>2008-04-24T06:46:39Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]].
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>2w5wpkw3x6drxnbp52ct1ygaf6g1mfs</sha1>
+    </revision>
+    <revision>
+      <id>207798737</id>
+      <parentid>207798586</parentid>
+      <timestamp>2008-04-24T06:47:51Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* Description */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial acoustic impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>p83v975wzvidbvsnv9zh16rep0yav1z</sha1>
+    </revision>
+    <revision>
+      <id>207801561</id>
+      <parentid>207798737</parentid>
+      <timestamp>2008-04-24T07:09:29Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>nc1mbp2q0x4igyrnky7a04hk19zlu27</sha1>
+    </revision>
+    <revision>
+      <id>207801678</id>
+      <parentid>207801561</parentid>
+      <timestamp>2008-04-24T07:10:32Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Notes
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>0muz9nxr3h19kyro5wd7ggbaztqezz3</sha1>
+    </revision>
+    <revision>
+      <id>207801775</id>
+      <parentid>207801678</parentid>
+      <timestamp>2008-04-24T07:11:12Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of robotics&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Futher reading
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>8j28dozotrn6ydqxzqipfvmmm8i8xib</sha1>
+    </revision>
+    <revision>
+      <id>207801848</id>
+      <parentid>207801775</parentid>
+      <timestamp>2008-04-24T07:11:50Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of [[robotics]]&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Futher reading
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method]] of [[Prospecting]] by [[Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>srlkp3wje00jyg87dspaww2aqsqeyee</sha1>
+    </revision>
+    <revision>
+      <id>207801972</id>
+      <parentid>207801848</parentid>
+      <timestamp>2008-04-24T07:12:50Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of [[robotics]]&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Futher reading
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method of Prospecting by Detonation]]s of [[Explosive Compound]]s and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>pv33kgzugj4c61xn2zhlim54j0nt7n1</sha1>
+    </revision>
+    <revision>
+      <id>207802016</id>
+      <parentid>207801972</parentid>
+      <timestamp>2008-04-24T07:13:17Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of [[robotics]]&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Futher reading
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method of Prospecting by Detonations of Explosive Compounds]] and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+
+* [[Seismology]]
+
+[[Category:Nikola Tesla]]
+
+
+{{geol-stub}}</text>
+      <sha1>fq0uouqmgkiqs3jjr4s3xye81zob2nf</sha1>
+    </revision>
+    <revision>
+      <id>207802107</id>
+      <parentid>207802016</parentid>
+      <timestamp>2008-04-24T07:14:13Z</timestamp>
+      <contributor>
+        <username>Reddi</username>
+        <id>13833</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''Telegeodynamics''' is an electromechanical earth-resonance concept for underground seismic exploration proposed by [[Nikola Tesla]].&lt;ref&gt;Telegeodynamics was later incorporated into his concepts of [[robotics]]&lt;/ref&gt;  
+
+==Description==
+He designed this system for use in prospecting and discerning the location of underground mineral structures through the transmission of mechanical energy through the subsurface.  Data from reflected and refracted signals can be analyzed to deduce the location and characteristics of underground formations.  Additional non-mechanical responses to the initial [[Electrotelluric|electrotelluric]] impulses may also be detected. 
+
+The electromechanical oscillator was originally designed as a source of [[isochronous frequency|isochronous]] (that is to say, [[frequency stable]]), [[alternating current|alternating electric current]] used with both [[transceiver|wireless transmitting and receiving apparatus]]. In [[dynamical system |dynamical system theory]] an [[oscillator]] is called ''isochronous'' if the frequency is independent of its amplitude. A  [[electromechanical]] device which runs at the same rate regardless of changes in its [[prime mover|drive force]], so it keeps correct [[frequency]] ([[hertz|hz]]).
+
+==References==
+Citations
+{{reflist|1}}
+Futher reading
+* The underlying principles are discussed in Tesla's paper, &quot;Relative Merits of the [[Lucas Method of Prospecting by Detonations of Explosive Compounds]] and of The [[Tesla Method of Prospecting by Isochronous Oscillations]] Theoretically Considered&quot; (ed., available in the book, ''Nikola Tesla's Teleforce &amp; Telegeodynamics Proposals'', [[Leland Anderson]] and [[Gary Peterson]], editors, Twenty First Century Books, 1998, ISBN 0-9636012-8-8
+* Journal Il Nuovo Cimento C, ''On a new general theory of earthquakes''. Italian Physical Society, ISSN 1124-1896. Issue Volume 11, Number 2 / March, 1988 DOI 10.1007/BF02561733 Pages 209-217 SpringerLink Date Thursday, February 08, 2007
+
+==See also== 
+* [[Surface waves]] and [[Shear waves]]
+* [[Seismology]]
